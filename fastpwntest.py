@@ -55,7 +55,7 @@ if sett==1:
 	print("将会在在这串字符串后开始测试:")
 	teststr1=input("->")
 xhjs=0
-i='1'
+i=1
 teststr=[]
 testpoc=[]
 if sett==2:
